@@ -1,0 +1,1 @@
+<button onclick="window.open('https://gateway.ipfscdn.io/ipfs/QmbqqqqQLx1aaa1123PurZFreM2gg5d85d8pKDT8uzg999kr/erc1155.html?contract=0xA69fE4e03343E000F5676467d86F26F6a09AcB92&chainId=56&tokenId=0', '_blank', 'width=600px,height=600px,resizable=yes,scrollbars=yes,toolbar=yes,menubar=yes,location=yes');">Open Embed</button>
